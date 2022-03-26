@@ -1,0 +1,2 @@
+# HashTable
+Implementation of HashTable through chaining. There will be a linked list to handle the collision of the elements by chaining in the hash table and it will store the data in the hash table by the h function modulus the size, in which the size here would be 10% smaller than the size of the data sets. There will be a measure of the time to insert all data into the hash table and the time recorded for the searches which are found and not found.
